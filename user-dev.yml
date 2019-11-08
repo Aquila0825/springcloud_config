@@ -20,4 +20,4 @@ eureka:
     lease-renewal-interval-in-seconds: 30 #续约间隔
     lease-expiration-duration-in-seconds: 90 #服务失效时间
 test:
-  name: Zac Dong
+  name: dsy
